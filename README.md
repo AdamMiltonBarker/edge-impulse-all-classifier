@@ -4,6 +4,10 @@
 
 Project by [Adam Milton-Barker](https://www.AdamMiltonBarker.com)
 
+Edge Impulse Project: [Edge Impulse Experts / Acute Lymphoblastic Leukaemia Classifier](https://studio.edgeimpulse.com/public/239144/latest)
+
+Github Repo: [Edge Impulse Acute Lymphoblastic Leukaemia Classifier](https://github.com/AdamMiltonBarker/edge-impulse-all-classifier)
+
 # Introduction
 
 Acute Lymphoblastic Leukaemia (ALL), also known as acute lymphocytic leukemia, is a cancer that affects the lymphoid blood cell lineage. It is the most common Leukaemia in children, and it accounts for 10-20% of acute leukemias in adults. The prognosis for both adult and especially childhood ALL has improved substantially since the 1970s. The 5- year survival is approximately 95% in children. In adults, the 5-year survival varies between 25% and 75%, with more favorable results in younger than in older patients.
